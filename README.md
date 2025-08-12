@@ -7,12 +7,15 @@
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
 ### Project Overview 
-
+---
 The primary objective of this analysis is to:
 -	Evaluate sales performance across countries, products and customer segments
 -	Identify profitable and underperforming regions and product categories
 -	Understand cost implications, especially around shipping
 -	Highlight top customers and products to optimize marketing and inventory planning
+
+
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/efdb8d04-9ec5-4a8d-99d3-5cf035da54d5" />
 
 ### Data Sources
 
@@ -49,7 +52,18 @@ EDA involved exploring the sales data to answer key questions such as:
 
 ### References
 
+😄
+💻
 
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Python|sql|
 
+`column_1`
+
+**bold**
+
+*italic*
 
 
