@@ -1,7 +1,6 @@
 # Global Superstores Ltd. Sales Analysis
 
-
-## Table of Contents
+## Table of Content
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -15,11 +14,11 @@ The primary objective of this analysis is to:
 -	Highlight top customers and products to optimize marketing and inventory planning
 
 
-<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/efdb8d04-9ec5-4a8d-99d3-5cf035da54d5" />
 
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "Globalsuperstores-capstsone.xlsx" file, containing detailed information about each sale made by the company.
+<img width="1089" height="597" alt="Global Superstores Ltd  Sales Analysis" src="https://github.com/user-attachments/assets/ca029b16-2740-4372-be69-e62c052402b7" />
 
 ### Tools
 
